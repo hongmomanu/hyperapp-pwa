@@ -45,6 +45,9 @@ button {
   cursor: pointer;
   touch-action: manipulation;
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+  &:hover{
+    color: blue;
+  }
 }
 
 h1 {
